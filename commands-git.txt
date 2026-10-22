@@ -7,3 +7,6 @@ Les 3 commandes pour push :
     git add <fichier> ou <dossier> ou <. (pour tout ce qui à changer)> 
     git commit -m "Message pour annoncer ce que fait le push"
     git push
+
+La commande qui permet de pull : 
+    git pull # permet de récupérer les modifications d'un dépôt à distance
