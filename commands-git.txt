@@ -10,3 +10,14 @@ Les 3 commandes pour push :
 
 La commande qui permet de pull : 
     git pull # permet de récupérer les modifications d'un dépôt à distance
+
+
+Commandes pour créer une branch :
+    git branch <nom>
+    git switch <nom>    #pour switcher vers une autre branch 
+
+Comment fusionner les branch : 
+    git add <>
+    git commit -m <>
+    git switch lain 
+    git merge <nom de la branch à fusionner>
