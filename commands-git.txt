@@ -21,3 +21,4 @@ Comment fusionner les branch :
     git commit -m <>
     git switch lain 
     git merge <nom de la branch à fusionner>
+    git push
