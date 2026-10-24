@@ -22,3 +22,5 @@ Comment fusionner les branch :
     git switch lain 
     git merge <nom de la branch à fusionner>
     git push
+
+    .
